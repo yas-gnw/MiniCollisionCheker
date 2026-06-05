@@ -31,7 +31,7 @@ int main(){
     
 
     //check collision and print collision=1 if collision 0 if not
-    std::cout<<"collision="<<RobotCollide(Bot, S)<<std::endl;
+    std::cout<<"collision="<<RobotCollide(Bot, S)<<"\n"<<std::endl;
 
     return 0;
 }
